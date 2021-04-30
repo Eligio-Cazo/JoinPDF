@@ -1,0 +1,11 @@
+C:\Programacion\VS2013\mergepdf\mergepdf\bin\Debug\mergepdf.exe.config
+C:\Programacion\VS2013\mergepdf\mergepdf\bin\Debug\mergepdf.exe
+C:\Programacion\VS2013\mergepdf\mergepdf\bin\Debug\mergepdf.pdb
+C:\Programacion\VS2013\mergepdf\mergepdf\bin\Debug\mergepdf.xml
+C:\Programacion\VS2013\mergepdf\mergepdf\bin\Debug\itextsharp.dll
+C:\Programacion\VS2013\mergepdf\mergepdf\bin\Debug\itextsharp.xml
+C:\Programacion\VS2013\mergepdf\mergepdf\obj\Debug\mergepdf.Resources.resources
+C:\Programacion\VS2013\mergepdf\mergepdf\obj\Debug\mergepdf.vbproj.GenerateResource.Cache
+C:\Programacion\VS2013\mergepdf\mergepdf\obj\Debug\mergepdf.exe
+C:\Programacion\VS2013\mergepdf\mergepdf\obj\Debug\mergepdf.xml
+C:\Programacion\VS2013\mergepdf\mergepdf\obj\Debug\mergepdf.pdb
